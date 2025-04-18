@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ESP32-Connection"
+		},
+		{
+			"name": "esp32gpt",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
